@@ -24,10 +24,8 @@ I'm actively seeking internships in front-end, back-end, or full-stack developme
 
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahongloc&layout=compact&theme=radical)
-## 📈 GitHub Stats
-![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahongloc&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahongloc&layout=compact&theme=radical)  ## 📈 GitHub Stats ![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahongloc&show_icons=true&theme=radical)
+## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lahongloc&theme=radical)](https://git.io/streak-stats)
 
 
