@@ -11,9 +11,8 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 ## 🔧 Skills
 
 - **Languages:** Java, Python, JavaScript, HTML, CSS, SQL
-- **Frameworks & Libraries:** ReactJs, NodeJs, Spring MVC, Flask
+- **Frameworks & Libraries:** ReactJs, NodeJs, Spring MVC, Flask, Boostrap, MUI
 - **Databases:** MySQL, SQL Server, MongoDB Compass
-- **Tools:** Git, Docker, AWS (S3), VNPay, Twilio, SMTP
 
 ## 📫 Get in Touch
 
@@ -28,5 +27,8 @@ I'm actively seeking internships in front-end, back-end, or full-stack developme
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahongloc&layout=compact&theme=radical)
 ## 📈 GitHub Stats
 ![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahongloc&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lahongloc&theme=radical)](https://git.io/streak-stats)
+
 
 Thank you for visiting my profile! Don't forget to check out my repositories and leave a star if you find something useful.
