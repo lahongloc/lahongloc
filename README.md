@@ -16,9 +16,8 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 
 ## 📫 Get in Touch
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [La Hồng Lộc](https://www.linkedin.com/in/la-hong-loc/)
-- **GitHub:** [github.com/username](https://github.com/username)
+- **Email:** hongloc111990@gmail.com
+- **LinkedIn:** www.linkedin.com/in/hongloc2405
 
 I'm actively seeking internships in front-end, back-end, or full-stack development roles. Let's connect and collaborate on exciting projects!
 
