@@ -25,6 +25,6 @@ I'm actively seeking internships in front-end, back-end, or full-stack developme
 
 ## 📈 GitHub Stats
 
-![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongloc2405&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Don't forget to check out my repositories and leave a star if you find something useful.
