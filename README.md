@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 I'm actively seeking internships in front-end, back-end, or full-stack development roles. Let's connect and collaborate on exciting projects!
 
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahongloc&layout=compact&theme=radical)  ## 📈 GitHub Stats ![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahongloc&show_icons=true&theme=radical)
-## 🔥 Streak Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahongloc&layout=compact&theme=radical)  ![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahongloc&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lahongloc&theme=radical)](https://git.io/streak-stats)
 
 
