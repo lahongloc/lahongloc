@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 
 ## 🔧 Skills
 
-- **Languages:** Java, Python, JavaScript, HTML, CSS, SQL
+- **Languages:** Java, Python, JavaScript, C#
 - **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs, Flask, Boostrap, MUI
 - **Databases:** MySQL, SQL Server, MongoDB Compass
 
