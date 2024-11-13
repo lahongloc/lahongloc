@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 
 ## 🚀 About Me
 
-- 🎓 Third-year IT student at Ho Chi Minh City Open University
+- 🎓 Final-year IT student at Ho Chi Minh City Open University
 - 🌐 Enthusiast in front-end, back-end, and full-stack web development
 - 🌟 Eager to learn and grow in the tech industry
 
