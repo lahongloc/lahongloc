@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 ## 🔧 Skills
 
 - **Languages:** Java, Python, JavaScript, TypeScript, C#
-- **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs(Express.js, Nest.js), Flask, Boostrap, MUI
+- **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs(Express.js, Nest.js), Flask, Boostrap, MUI, Ant Design
 - **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 
 ## 📫 Get in Touch
