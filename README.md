@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I’m a third-year IT student at Ho Chi Minh City 
 
 ## 🔧 Skills
 
-- **Languages:** Java, Python, JavaScript, C#
-- **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs, Flask, Boostrap, MUI
-- **Databases:** MySQL, SQL Server, MongoDB Compass
+- **Languages:** Java, Python, JavaScript, TypeScript, C#
+- **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs(Express.js, Nest.js), Flask, Boostrap, MUI
+- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 
 ## 📫 Get in Touch
 
-- **Email:** hongloc111990@gmail.com
+- **Email:** hongloc111990@gmail.com, lahongloc.work@gmail.com
 - **LinkedIn:** www.linkedin.com/in/hongloc2405
 
 I'm actively seeking internships in front-end, back-end, or full-stack development roles. Let's connect and collaborate on exciting projects!
