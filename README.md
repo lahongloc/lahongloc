@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I’m a final-year IT student at Ho Chi Minh City 
 
 ## 🚀 About Me
 
-- 🎓 Final-year IT student at Ho Chi Minh City Open University
+- 🎓 Soon-to-graduate IT student at Ho Chi Minh City Open University
 - 🌐 Enthusiast in front-end, back-end, and full-stack web development
 - 🌟 Eager to learn and grow in the tech industry
 
 ## 🔧 Skills
 
-- **Languages:** Java, Python, JavaScript, TypeScript, C#
-- **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs(Express.js, Nest.js), Flask, Boostrap, MUI, Ant Design
+- **Languages:** Java, Python, JavaScript, TypeScript, Golang, C#
+- **Frameworks & Libraries:** Spring Boot, Spring MVC, ReactJs, NodeJs(Express.js, Nest.js), GIN, Flask, Boostrap, MUI, Ant Design
 - **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 
 ## 📫 Get in Touch
