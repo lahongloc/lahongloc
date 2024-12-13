@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm La Hồng Lộc!
 
-Welcome to my GitHub profile! I’m a final-year IT student at Ho Chi Minh City Open University with a passion for software development and web technologies. Below you'll find more about my background, skills, and projects.
+Welcome to my GitHub profile! I’m a soon-to-graduate IT student at Ho Chi Minh City Open University with a passion for software development and web technologies. Below you'll find more about my background, skills, and projects.
 
 ## 🚀 About Me
 
