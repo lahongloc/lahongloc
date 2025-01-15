@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a soon-to-graduate IT student at Ho Chi Minh
 - **Email:** hongloc111990@gmail.com, lahongloc.work@gmail.com
 - **LinkedIn:** www.linkedin.com/in/hongloc2405
 
-I'm actively seeking internships in front-end, back-end, or full-stack development roles. Let's connect and collaborate on exciting projects!
+I'm actively seeking fresher in back-end, or full-stack development roles. Let's connect and collaborate on exciting projects!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahongloc&layout=compact&theme=radical)  ![La Hồng Lộc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahongloc&show_icons=true&theme=radical)
