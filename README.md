@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a soon-to-graduate IT student at Ho Chi Minh
 ## 🚀 About Me
 
 - 🎓 Soon-to-graduate IT student at Ho Chi Minh City Open University
-- 🌐 Enthusiast in front-end, back-end, and full-stack web development
+- 🌐 Enthusiast in back-end, and full-stack web development
 - 🌟 Eager to learn and grow in the tech industry
 
 ## 🔧 Skills
